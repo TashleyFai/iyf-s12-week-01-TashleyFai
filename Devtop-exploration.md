@@ -6,12 +6,12 @@ Website URL:http;//example.com
  1. what HTML tags are used on the page?
  The main HTML tags includes:
 <html>
-.<head>
-.<title>
-.<body>
-.<h1>
-.<p>
-.<a>
+<head>
+<title>
+<body>
+<h1>
+<p>
+<a>
 
 2. what is the page title?
 The page title is Example Domain. 
@@ -24,13 +24,13 @@ Website URL:http://developer.mozilla.org
 
 1. What HTML tags are used in the page?
 The HTML elements obsereved in the Elements panel includes:
-.<html>
-.<head>
-.<body>
-.<nav>
-.<input>
-.<a>
-.<div>
+<html>
+<head>
+<body>
+<nav>
+<input>
+<a>
+<div>
 
 2. Find the navigation menu-what tag is it wrapped in?
 The navigation menu uses the <nav>HTML tag.
@@ -46,11 +46,11 @@ Website URL:http://www.wikipedia.org
 
 1. Identify five HTML elements 
 The HTML elements i found in the Elements panel were:
-.<html>
-.<head>
-.<body>
-.<form>
-.<input>
+<html>
+<head>
+<body>
+<form>
+<input>
 
 2. Find a form and lists its inputs
 I found a<form>element and one<input>match using the Developer Tools search.The input is used to enter search terms.
