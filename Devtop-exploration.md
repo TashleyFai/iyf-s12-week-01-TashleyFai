@@ -5,7 +5,7 @@ Website URL:http;//example.com
 
  1. what HTML tags are used on the page?
  The main HTML tags includes:
-.<html>
+<html>
 .<head>
 .<title>
 .<body>
