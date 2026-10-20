@@ -7,7 +7,7 @@ This report describes the accessibility audit of my personal website for the IYF
 ## 2. Accessibility Checks
 
 ### Images
-- Added descriptive alternative text using the `alt` attribute.
+- Added alternative text to images using the `alt` attribute.
 
 ### Headings
 - Used headings in a logical order, starting with `h1`.
@@ -16,21 +16,23 @@ This report describes the accessibility audit of my personal website for the IYF
 - Used descriptive link text for navigation and external websites.
 
 ### Language
-- Added `lang="en"` to the HTML document.
+- Added `lang="en"` to the HTML documents.
 
 ### Main Landmark
-- Added the `<main>` element to identify the main content of the page.
+- Used the `<main>` element to identify the main content of the home page.
 
 ## 3. Testing
 
 Tool: Google Chrome Lighthouse
 
-Accessibility score: 96/100.
+Page tested: Home page (`index.html`)
 
-Issue reported: Document does not have a main landmark.
+Accessibility score: 100/100.
 
-Note: The warning appeared in the Lighthouse report. Further testing is needed to confirm that the latest version of the website is being audited.
+Test date: October 20, 2026.
+
+The latest Lighthouse report showed a score of 100/100. It also listed additional items for manual accessibility checks. A perfect automated score does not guarantee that every accessibility issue has been identified.
 
 ## 4. Conclusion
 
-The website was checked using Lighthouse. The audit reported an accessibility score of 96/100. Further testing and manual checks can help identify any remaining accessibility issues.
+The home page achieved an accessibility score of 100/100 in Lighthouse. Further manual checks, including keyboard navigation and checking the other pages, can help identify any remaining accessibility issues.
