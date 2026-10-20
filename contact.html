@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact | Tashley Fai</title>
+    <title>Contact Me | Tashley Fai</title>
 </head>
 <body>
     <header>
@@ -19,49 +19,84 @@
     </header>
 
     <main>
-        <h2>Send Me a Message</h2>
+        <section>
+            <h2>Send Me a Message</h2>
 
-        <form action="#" method="post">
-            <fieldset>
-                <legend>Contact Information</legend>
+            <form action="#" method="post">
+                <fieldset>
+                    <legend>Contact Information</legend>
 
-                <label for="fullname">Full Name (required):</label>
-                <input type="text" id="fullname" name="fullname"
-                       placeholder="Enter your full name" required>
-                <br><br>
+                    <p>
+                        <label for="name">Full Name (required):</label><br>
+                        <input type="text" id="name" name="name" required>
+                    </p>
 
-                <label for="email">Email Address (required):</label>
-                <input type="email" id="email" name="email"
-                       placeholder="you@example.com" required>
-                <br><br>
+                    <p>
+                        <label for="email">Email Address (required):</label><br>
+                        <input type="email" id="email" name="email" required>
+                    </p>
 
-                <label for="phone">Phone Number (optional):</label>
-                <input type="tel" id="phone" name="phone"
-                       placeholder="Enter your phone number">
-                <br><br>
+                    <p>
+                        <label for="phone">Phone Number (optional):</label><br>
+                        <input type="tel" id="phone" name="phone">
+                    </p>
 
-                <label for="subject">Subject:</label>
-                <select id="subject" name="subject" required>
-                    <option value="">Choose a subject</option>
-                    <option value="question">General Question</option>
-                    <option value="feedback">Feedback</option>
-                    <option value="support">Support</option>
-                </select>
-                <br><br>
+                    <p>
+                        <label for="subject">Subject:</label><br>
+                        <select id="subject" name="subject">
+                            <option value="">Choose a subject</option>
+                            <option value="general">General Question</option>
+                            <option value="feedback">Feedback</option>
+                            <option value="support">Support</option>
+                        </select>
+                    </p>
 
-                <label for="message">Message (at least 50 characters):</label>
-                <textarea id="message" name="message"
-                          placeholder="Write your message here"
-                          minlength="50" required></textarea>
-                <br><br>
+                    <p>
+                        <label for="message">Message (at least 50 characters):</label><br>
+                        <textarea id="message" name="message"
+                            minlength="50" required></textarea>
+                    </p>
 
-                <input type="checkbox" id="newsletter" name="newsletter">
-                <label for="newsletter">Subscribe to my newsletter</label>
-            </fieldset>
+                    <p>
+                        <input type="checkbox" id="newsletter" name="newsletter">
+                        <label for="newsletter">Subscribe to my newsletter</label>
+                    </p>
 
-            <br>
-            <button type="submit">Send Message</button>
-        </form>
+                    <button type="submit">Send Message</button>
+                </fieldset>
+            </form>
+        </section>
+
+        <section>
+            <h2>Other Ways to Reach Me</h2>
+
+            <address>
+                Nairobi, Kenya<br>
+                Time zone: East Africa Time (EAT), UTC+3<br>
+                Email:
+                <a href="mailto:faithkips003@gmail.com">faithkips003@gmail.com</a><br>
+                Phone:
+                <a href="tel:+254729214946">+254 729 214 946</a>
+            </address>
+        </section>
+
+        <section>
+            <h2>Find Me Online</h2>
+            <ul>
+                <li>
+                    <a href="https://github.com/TashleyFai"
+                       target="_blank" rel="noopener noreferrer">GitHub</a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/"
+                       target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                </li>
+                <li>
+                    <a href="https://www.instagram.com/"
+                       target="_blank" rel="noopener noreferrer">Instagram</a>
+                </li>
+            </ul>
+        </section>
     </main>
 
     <footer>
