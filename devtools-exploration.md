@@ -1,59 +1,76 @@
-DevTools Exploration
 
-Website 1:Example Domain
-Website URL:http;//example.com
+# DevTools Exploration
 
- 1. what HTML tags are used on the page?
- The main HTML tags includes:
-<html>
-<head>
-<title>
-<body>
-<h1>
-<p>
-<a>
+## Website 1: Example Domain
 
-2. what is the page title?
-The page title is Example Domain. 
+**Website URL:** https://example.com
 
-3. How many headings are there?
-There is 1 heading, which is<h1>Example Domain<h1>.
+### 1. What HTML tags are used on the page?
 
-Website 2: MDN Web Docs
-Website URL:http://developer.mozilla.org
+The main HTML tags include:
 
-1. What HTML tags are used in the page?
-The HTML elements obsereved in the Elements panel includes:
-<html>
-<head>
-<body>
-<nav>
-<input>
-<a>
-<div>
+- `<html>`
+- `<head>`
+- `<title>`
+- `<body>`
+- `<h1>`
+- `<p>`
+- `<a>`
 
-2. Find the navigation menu-what tag is it wrapped in?
-The navigation menu uses the <nav>HTML tag.
+### 2. What is the page title?
 
-3. How is the search bar structured?
-The search bar uses an HTML input element (<input>)to allow users to enter search terms.It may include attributes that identify it as a search field and mate it accessible.
+The page title is **Example Domain**.
 
-4. What happens when you hover over links?
-Links on MDN apper in different colours,including blue and purple.Their appearance can change depending on their state and the website's CSS styling.
+### 3. How many headings are there?
 
-Wesite 3:Wikipedia
-Website URL:http://www.wikipedia.org
+There is one main heading: `<h1>Example Domain</h1>`.
 
-1. Identify five HTML elements 
-The HTML elements i found in the Elements panel were:
-<html>
-<head>
-<body>
-<form>
-<input>
+## Website 2: MDN Web Docs
 
-2. Find a form and lists its inputs
-I found a<form>element and one<input>match using the Developer Tools search.The input is used to enter search terms.
+**Website URL:** https://developer.mozilla.org
 
-3. Screenshot
-I Google's HTML using the Microsoft Edge Developer Tools Elements panel
+### 1. What HTML tags are used on the page?
+
+The HTML elements I observed in the Elements panel included:
+
+- `<html>`
+- `<head>`
+- `<body>`
+- `<nav>`
+- `<input>`
+- `<a>`
+- `<div>`
+
+### 2. Find the navigation menu. What tag is it wrapped in?
+
+The navigation menu uses the `<nav>` HTML element.
+
+### 3. How is the search bar structured?
+
+The search bar uses an `<input>` element to allow users to enter search terms. The input may have attributes that identify it as a search field and help make it accessible.
+
+### 4. What happens when you hover over links?
+
+The appearance of links may change when the pointer moves over them. Their color or other styling depends on the website's CSS.
+
+## Website 3: Wikipedia
+
+**Website URL:** https://www.wikipedia.org
+
+### 1. Identify five HTML elements.
+
+The HTML elements I found in the Elements panel were:
+
+- `<html>`
+- `<head>`
+- `<body>`
+- `<form>`
+- `<input>`
+
+### 2. Find a form and list its inputs.
+
+I found a `<form>` element and an `<input>` element using the Developer Tools search. The input is used to enter search terms.
+
+### 3. Screenshot
+
+I used Microsoft Edge Developer Tools and the Elements panel to inspect the HTML structure of a website. A screenshot of the inspection should be included with this report if required by the assignment.
