@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 1 HTML Challenge</title>
+</head>
+<body>
+    <header>
+        <h1>Exploring New HTML Tags</h1>
+        <p>My IYF Weekend Academy Daily Challenge</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>1. Abbreviation</h2>
+            <p>
+                I am learning <abbr title="HyperText Markup Language">HTML</abbr>.
+            </p>
+        </section>
+
+        <section>
+            <h2>2. Blockquote and Citation</h2>
+            <blockquote>
+                The secret of getting ahead is getting started.
+            </blockquote>
+            <p><cite>Commonly attributed to Mark Twain</cite></p>
+        </section>
+
+        <section>
+            <h2>3. Code</h2>
+            <p>Here is an example of an HTML heading:</p>
+            <code>&lt;h1&gt;Hello World&lt;/h1&gt;</code>
+        </section>
+
+        <section>
+            <h2>4. Highlighted Text</h2>
+            <p>My goal is to <mark>become a software engineer</mark>.</p>
+        </section>
+
+        <section>
+            <h2>5. Date and Time</h2>
+            <p>
+                I started this challenge on
+                <time datetime="2026-10-20">October 20, 2026</time>.
+            </p>
+        </section>
+
+        <section>
+            <h2>6. Expandable Information</h2>
+            <details>
+                <summary>What am I learning?</summary>
+                <p>I am learning HTML and practicing how to build webpages.</p>
+            </details>
+        </section>
+    </main>
+
+    <footer>
+        <p>Created by Tashley Fai | 2026</p>
+    </footer>
+</body>
+</html>
