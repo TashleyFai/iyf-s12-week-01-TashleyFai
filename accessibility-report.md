@@ -23,15 +23,15 @@ This report describes the accessibility audit of my personal website for the IYF
 
 ## 3. Testing
 
-Tool: Google Chrome Lighthouse
+- Tool: Google Chrome Lighthouse
+  
+- Page tested: Home page ("index.html")
 
-Page tested: Home page (`index.html`)
+- Final accessibility score: 100/100
 
-Accessibility score: 100/100.
+- Test date: October 20, 2026
 
-Test date: October 20, 2026.
-
-The latest Lighthouse report showed a score of 100/100. It also listed additional items for manual accessibility checks. A perfect automated score does not guarantee that every accessibility issue has been identified.
+The latest Lighthouse report showed an accessibility score of 100/100. I did not record a separate score before making fixes, so I have reported the verified final score only. Lighthouse also recommended additional manual accessibility checks. A perfect automated score does not guarantee that every accessibility issue has been identified.
 
 ## 4. Conclusion
 
