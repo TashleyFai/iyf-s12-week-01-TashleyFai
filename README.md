@@ -1,40 +1,45 @@
+Tashley Fai — Week 1 Portfolio
 
-# Tashley Fai - Week 1 Portfolio
+Welcome to my Week 1 Web Foundations portfolio for IYF Season 12.
 
-Welcome to my Week 1 Web Foundations portfolio for IYF Season 12 at WeCan Academy.
+Live Demo
 
-## Live Website
+"View My Portfolio Website" (https://tashleyfai.github.io/iyf-s12-week-01-TashleyFai/)
 
-[View My Website](https://tashleyfai.github.io/iyf-s12-week-01-TashleyFai/)
+About This Project
 
-## About This Project
+This project demonstrates my beginner web development skills using HTML. It includes multiple pages, consistent navigation, semantic HTML, and an accessible contact form.
 
-This project demonstrates my beginner web development skills using HTML. It contains multiple pages with consistent navigation and semantic HTML elements.
+Pages and Challenges
 
-## Pages and Challenges
+- "Home" (index.html)
+- "About Me" (about.html)
+- "Projects" (projects.html)
+- "Contact" (contact.html)
+- "Semantic HTML Practice" (semantic-conversion.html)
+- "DevTools Exploration" (devtools-exploration.md)
+- "Accessibility Report" (accessibility-report.md)
+- "Day 1 Challenge" (day-1-challenge.html)
+- "Day 2 Challenge" (day-2-challenge.html)
+- "Day 3 Challenge" (day-3-challenge.html)
+- "Day 4 Challenge" (day-4-challenge.html)
+- "Day 5 Challenge" (day-5-challenge.html)
 
-- `index.html` - Home page
-- `about.html` - My background, skills, and learning journey
-- `projects.html` - My web development projects
-- `contact.html` - Contact form and contact information
-- `semantic-conversion.html` - Semantic HTML practice
-- `day-1-challenge.html` - Exploring HTML tags
-- `day-2-challenge.html` - Navigation menu
-- `day-3-challenge.html` - Contact section
-- `day-4-challenge.html` - Photo gallery
-- `day-5-challenge.html` - Blog post layout
-
-## Technologies Used
+Technologies Used
 
 - HTML5
-- Basic CSS
-- GitHub
+- Git and GitHub
 - GitHub Pages
+- Browser Developer Tools
 
-## What I Learned
+Lessons Learned
 
-I practised structuring web pages with HTML, using semantic elements, creating links between pages, building forms, adding images, and publishing my work with GitHub Pages.
+I learned how to structure web pages with HTML, use semantic elements, create navigation links, build forms with labels, and publish a website using GitHub Pages. I also practised checking accessibility and using browser developer tools.
 
-## Author
+Challenges Faced
+
+I faced challenges organizing my website files, making sure navigation links worked correctly, and deploying my pages on GitHub Pages. I worked through these challenges by checking my file names, reviewing my HTML, and testing my live website.
+
+Author
 
 Tashley Fai
